@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Serhii Khyzhniak
-- :office: I graduated from KPI
+- :office: I graduated from KPI (ITS)
 - 🌱 I am currently learning the Python programming language and various technologies related to it
 - 💞️ I am open to any suggestions
 - 📫 How to reach me ser.khyzhniak@gmail.com
