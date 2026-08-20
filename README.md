@@ -5,7 +5,7 @@
 - 📫 How to reach me ser.khyzhniak@gmail.com
 - Portfolio --> https://khizhnyaks.pythonanywhere.com/
 - 
-- 👀I am 22 years old and I am friendly, sociable, responsible and love to learn new things. 
+- 👀I am 26 years old and I am friendly, sociable, responsible and love to learn new things. 
 - :octocat:I am looking for an interesting job in a company that will allow me to develop as a specialist, 
     as a person, while increasing the value of the products and services produced.
 
